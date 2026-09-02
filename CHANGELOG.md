@@ -1,3 +1,17 @@
+## 1.0.0 (2026-09-02)
+
+### Features
+
+* **contents:** tailor summary and experience for Elysia Senior Data Engineer role ([060eb65](https://github.com/adi96000/automated-cv/commit/060eb65163fda147de96bc636adad75793146814))
+* **contents:** update certifications ([9fbf209](https://github.com/adi96000/automated-cv/commit/9fbf209b15473f0310e59774acf05c742661a7e0))
+* **contents:** update education and skills sections ([23fdfe7](https://github.com/adi96000/automated-cv/commit/23fdfe7d63b32c2e48ad0af31d12d83c9cd3efcd))
+
+### Bug Fixes
+
+* **config:** point release config to fork repository ([fc934cb](https://github.com/adi96000/automated-cv/commit/fc934cb2cb2efb9222a5adcae90988572bdbb117))
+* **resume:** update header contact details and footer link ([b7ff7a8](https://github.com/adi96000/automated-cv/commit/b7ff7a81b28f60beeffe261ab4a868f0e5983cb2))
+* **resume:** use correct mobile macro instead of phone ([ee3bdc7](https://github.com/adi96000/automated-cv/commit/ee3bdc77ee5efd59c31ea579f731fdc331fa67a1))
+
 ## [2.1.0](https://github.com/kirintwn/resume/compare/v2.0.0...v2.1.0) (2022-05-13)
 
 
