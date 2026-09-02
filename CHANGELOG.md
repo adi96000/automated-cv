@@ -1,3 +1,9 @@
+## [1.1.1](https://github.com/adi96000/automated-cv/compare/v1.1.0...v1.1.1) (2026-09-02)
+
+### Bug Fixes
+
+* **layout:** force page break before skills section to avoid orphaned heading ([4834cd0](https://github.com/adi96000/automated-cv/commit/4834cd06f2616ce7d48fad6e8d1b50f4c5c4e56d))
+
 ## [1.1.0](https://github.com/adi96000/automated-cv/compare/v1.0.0...v1.1.0) (2026-09-02)
 
 ### Features
