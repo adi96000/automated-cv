@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/adi96000/automated-cv/compare/v1.0.0...v1.1.0) (2026-09-02)
+
+### Features
+
+* **contents:** add AI and emerging technology section ([b1a89b8](https://github.com/adi96000/automated-cv/commit/b1a89b84e115dbf3ca61f4a8e8452ccea8b5facb))
+* **contents:** add performance tuning and data masking bullets ([543f814](https://github.com/adi96000/automated-cv/commit/543f8144062182bdc2c4ffd985ac3ed259378ec5))
+
 ## 1.0.0 (2026-09-02)
 
 ### Features
