@@ -1,3 +1,14 @@
+## [1.2.0](https://github.com/adi96000/automated-cv/compare/v1.1.1...v1.2.0) (2026-09-02)
+
+### Documentations
+
+* format readme; fix(resume): update email ([672382f](https://github.com/adi96000/automated-cv/commit/672382f1d55e19089b502216bb2d5f56ccf16f5b))
+* update readme for fork ([8162bca](https://github.com/adi96000/automated-cv/commit/8162bca1366cb33d0110907a59147c7811579313))
+
+### Features
+
+* **contents:** finalize experience updates ([87dfdb5](https://github.com/adi96000/automated-cv/commit/87dfdb55508d7e55af6c8dc8d517080ee045b064))
+
 ## [1.1.1](https://github.com/adi96000/automated-cv/compare/v1.1.0...v1.1.1) (2026-09-02)
 
 ### Bug Fixes
